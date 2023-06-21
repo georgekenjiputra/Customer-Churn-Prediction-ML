@@ -1,6 +1,6 @@
 # Customer Churn Prediction using Machine Learning
 
-![Image](https://miro.medium.com/v2/resize:fit:1024/1*YRq10sAcj2ScV2TirdSKBg.png)
+![Image](https://miro.medium.com/v2/resize:fit:800/1*3xEPKteLmsRwSUK6bfbpFQ.jpeg)
 
 ## Introduction
 
