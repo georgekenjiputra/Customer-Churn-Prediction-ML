@@ -6,7 +6,7 @@
 
 By: [George Kenji Putra](https://www.linkedin.com/in/georgekenjiputra/)
 
-Dataset: [Telecom Customer Churn]((https://www.kaggle.com/datasets/shilongzhuang/telecom-customer-churn-by-maven-analytics)
+Dataset: [Telecom Customer Churn](https://www.kaggle.com/datasets/shilongzhuang/telecom-customer-churn-by-maven-analytics)
 
 Deployment: For model deployment, please visit here: [Hugging Face](https://huggingface.co/spaces/agayabag/deploy_churn_prediction).
 
